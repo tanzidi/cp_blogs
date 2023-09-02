@@ -7,6 +7,4 @@ for(int i = 0; i < n; i++) {
 }
 ```
 
-![logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+![logo] https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
