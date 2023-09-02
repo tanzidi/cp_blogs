@@ -1,5 +1,7 @@
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+```c++
+for(int i = 0; i < n; i++) {
+  for (int j = 0; j < n; j++) {
+    cout << "hi" << "\n";
+  }
+}
 ```
