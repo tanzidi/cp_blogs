@@ -1,5 +1,5 @@
-## New Code
-Nothing new here just typing to check
+## প্রাইম নাম্বার
+বংলা ব্লগ লিখার জন্য শুরু করেছি অভ্র টাইপ করা
 ```c++
 for(int i = 0; i < n; i++) {
   for (int j = 0; j < n; j++) {
